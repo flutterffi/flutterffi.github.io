@@ -1,0 +1,1 @@
+const t=JSON.parse('[{"title":"欢迎来到博客","url":"/posts/生活/hello-world.html","date":"2026年5月21日","category":"生活","excerpt":"这是博客的第一篇文章。","tags":["生活"]},{"title":"晚饭时朋友讲的一对情侣","url":"/posts/阅读/couple-at-supper.html","date":"2026年5月22日","category":"阅读","excerpt":"男生学设计、家境极好，毕业后不找工作，半闲散地接点零活；女生是高中同学，重逢后走到一起……","tags":["阅读"]}]');export{t as d};
