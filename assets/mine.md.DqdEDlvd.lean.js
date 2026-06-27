@@ -1,1 +1,0 @@
-import{_ as r,H as e,f as a,i}from"./chunks/framework.Cvt1eIE0.js";const c=JSON.parse('{"title":"我的","description":"","frontmatter":{"title":"我的"},"headers":[],"relativePath":"mine.md","filePath":"mine.md"}'),l={name:"mine.md"};function f(o,t,n,h,s,d){return e(),a("div",null,[...t[0]||(t[0]=[i("",15)])])}const p=r(l,[["render",f]]);export{c as __pageData,p as default};
